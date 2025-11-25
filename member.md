@@ -1,6 +1,8 @@
-TeamProject01 Sec303 กลุ่ม G
-Member-01 = Chitsanupat Wayusuwanwit 68030063
-Member-02 = Nattapong Muanprasan 68030135
-Member-03 = Natchapon Onbang 68030084
-Member-04 = Chittiphat Lamdaun 68030039
-อิอิ
+# Team Project 01 — Sec303 — กลุ่ม G
+
+**สมาชิก:**
+
+1. Chitsanupat Wayusuwanwit — 68030063
+2. Nattapong Muanprasan — 68030135
+3. Natchapon Onbang — 68030084
+4. Chittiphat Lamdaun — 68030039
